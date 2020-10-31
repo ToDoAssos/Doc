@@ -7,5 +7,5 @@ Clone le repo en local et faire un LiveSearch sur VScode.
 
 > Fichier des [réunions](commite-reunion) qui regroupe la liste des réunion passées.
 
-> Fichier [git_cmd.md](README.md) qui regroupe les commandes à utiliser pour git.
+> Fichier de [documentation](git_cmd.md) qui regroupe les commandes à utiliser pour git.
 
