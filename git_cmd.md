@@ -8,7 +8,13 @@ Commandes à faire dans la console du repo "Doc" :
    > **git pull**
         
  ### *Recupérer toutes les nouvelles branches*
-   > **git fetch --prune**
+  > **git fetch --all**
+  
+ ### *Afficher toutes les branches que l'on ne voit pas (affiche celle que l'on n'a pas en local, et celle supprimées)*
+   > **git branch -a**
+
+
+ 
  
  ### *Creer et aller sur une nouvelle branche créée*
   > **git checkout -b "nom_de_la_branche"**
@@ -25,3 +31,4 @@ Commandes à faire dans la console du repo "Doc" :
   > **git commit -m "un commentaire"**
   #### *envoyer les changements en ligne (demande possiblement une connexion, si la branch n'est pas existante, la console va vous donner la commande a effectuer)*   
   > **git push**
+
